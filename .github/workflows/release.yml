@@ -23,7 +23,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v1
         with:
-          node-version: 12
+          node-version: ${{ matrix['node-version'] }}
       - name: Install dependencies
         run: npm ci
       - name: Build Library
@@ -35,7 +35,10 @@ jobs:
         with:
           dry_run: true
           extra_plugins: |
+            @semantic-release/commit-analyzer
+            @semantic-release/release-notes-generator
             @semantic-release/changelog@3.0.0
+            @semantic-release/npm
             @semantic-release/git
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
