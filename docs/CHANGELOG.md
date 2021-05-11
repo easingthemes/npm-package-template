@@ -1,3 +1,10 @@
+## [2.7.1](https://github.com/easingthemes/npm-nc-template/compare/v2.7.0...v2.7.1) (2021-05-11)
+
+
+### Bug Fixes
+
+* **ci:** update codeql ([85c7666](https://github.com/easingthemes/npm-nc-template/commit/85c76662afb2e2c5d5f41ec82340533eb80c60e0))
+
 # [2.7.0](https://github.com/easingthemes/npm-nc-template/compare/v2.6.0...v2.7.0) (2021-05-11)
 
 
