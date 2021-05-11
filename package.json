@@ -4,6 +4,9 @@
   "description": "<Package description>",
   "license": "MIT",
   "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/easingthemes/npm-nc-template"
