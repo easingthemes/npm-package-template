@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/easingthemes/npm-nc-template/compare/v2.1.0...v2.2.0) (2021-05-11)
+
+
+### Features
+
+* **docs:** cleanup docs ([6611331](https://github.com/easingthemes/npm-nc-template/commit/6611331484989547cdc10102d3f9c6b09cbf1c5d))
+
 # [2.1.0](https://github.com/easingthemes/npm-nc-template/compare/v2.0.0...v2.1.0) (2021-05-11)
 
 
