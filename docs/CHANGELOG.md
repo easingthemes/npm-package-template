@@ -1,3 +1,10 @@
+## [2.7.3](https://github.com/easingthemes/npm-nc-template/compare/v2.7.2...v2.7.3) (2021-05-11)
+
+
+### Bug Fixes
+
+* **ci:** cleanup ([b6a2ee9](https://github.com/easingthemes/npm-nc-template/commit/b6a2ee9a5d398ee3614c1c81930a57606b603589))
+
 ## [2.7.2](https://github.com/easingthemes/npm-nc-template/compare/v2.7.1...v2.7.2) (2021-05-11)
 
 
