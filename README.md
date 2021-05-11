@@ -1,3 +1,7 @@
 # npm-nc-template
 GitHub Actions CI/CD
-test branch PR
+
+[![Version](https://img.shields.io/npm/v/@draganfilipovic/npm-nc-template.svg)](https://npmjs.org/package/@draganfilipovic/npm-nc-template)
+[![Build Status](https://github.com/easingthemes/npm-nc-template/workflows/CI/badge.svg?branch=main)](https://github.com/easingthemes/npm-nc-template/actions)
+[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/easingthemes/npm-nc-template)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
