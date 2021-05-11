@@ -1,3 +1,10 @@
+# [2.5.0](https://github.com/easingthemes/npm-nc-template/compare/v2.4.0...v2.5.0) (2021-05-11)
+
+
+### Features
+
+* **ci:** remove default plugins ([0c8f630](https://github.com/easingthemes/npm-nc-template/commit/0c8f630253a1f84ee2d42ff3639223a7e3a4c96b))
+
 # [2.4.0](https://github.com/easingthemes/npm-nc-template/compare/v2.3.0...v2.4.0) (2021-05-11)
 
 
