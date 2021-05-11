@@ -1,3 +1,10 @@
+# [2.4.0](https://github.com/easingthemes/npm-nc-template/compare/v2.3.0...v2.4.0) (2021-05-11)
+
+
+### Features
+
+* **ci:** change git user ([475f882](https://github.com/easingthemes/npm-nc-template/commit/475f8825a17a42e950e5254c26842786fb28c467))
+
 # [2.3.0](https://github.com/easingthemes/npm-nc-template/compare/v2.2.0...v2.3.0) (2021-05-11)
 
 
