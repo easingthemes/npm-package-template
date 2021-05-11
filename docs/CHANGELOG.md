@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/easingthemes/npm-nc-template/compare/v2.0.0...v2.1.0) (2021-05-11)
+
+
+### Features
+
+* **action:** update badges ([1812200](https://github.com/easingthemes/npm-nc-template/commit/18122006572d0196268cf9039bc781c532a76741))
+
 # [2.0.0](https://github.com/easingthemes/npm-nc-template/compare/v1.3.0...v2.0.0) (2021-05-11)
 
 
