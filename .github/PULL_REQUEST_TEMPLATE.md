@@ -1,4 +1,7 @@
-<!--- Provide a general summary of your changes in the Title above -->
+<!--- Provide a general summary of your changes in the Title above 
+      Use Angular Commit Message Conventions - 
+      https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit-message-header
+-->
 
 ## Description
 
@@ -10,7 +13,7 @@
       If suggesting a new feature or change, please discuss it in an issue first
       If fixing a bug, there should be an issue describing it with steps to reproduce -->
 <!--
-      * Automatically closes linked issue when PR is merged.
+      To automatically close linked issue when PR is merged.
       Usage: `Fixes #<issue number>`, or `Fixes (paste link of issue)`.
 -->
 
@@ -29,7 +32,5 @@ Fixes #
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 
 - [ ] My code follows the code style of this project.
-- [ ] My change requires a change to the documentation.
-- [ ] I have updated the documentation accordingly.
-- [ ] I have read the **CONTRIBUTING** document.
+- [ ] I have read the **[CONTRIBUTING](docs/CONTRIBUTING.mnd)** document.
 - [ ] All new and existing tests passed.
