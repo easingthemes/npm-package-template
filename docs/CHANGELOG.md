@@ -1,3 +1,10 @@
+# [2.3.0](https://github.com/easingthemes/npm-nc-template/compare/v2.2.0...v2.3.0) (2021-05-11)
+
+
+### Features
+
+* **docs:** remove unused git user ([1cbd2f0](https://github.com/easingthemes/npm-nc-template/commit/1cbd2f0c63504214667f885aefebcb7b5dead81b))
+
 # [2.2.0](https://github.com/easingthemes/npm-nc-template/compare/v2.1.0...v2.2.0) (2021-05-11)
 
 
