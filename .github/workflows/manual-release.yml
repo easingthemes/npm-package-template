@@ -1,8 +1,6 @@
 name: Release
-
 on:
-  workflow_dispatch:
-
+  workflow_dispatch: null
 jobs:
   release:
     name: Test, Build and Release
@@ -11,7 +9,6 @@ jobs:
       matrix:
         os: [ ubuntu-latest ]
         node-version: [ 14.x ]
-
     steps:
       - name: Checkout
         uses: actions/checkout@v2
@@ -21,7 +18,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v1
         with:
-          node-version: 12
+          node-version: 14
       - name: Install dependencies
         run: npm ci
       - name: Build Library
