@@ -1,0 +1,23 @@
+{
+  "name": "@draganfill/npm-nc-template",
+  "version": "0.0.0-development",
+  "description": "<Package description>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/easingthemes/npm-nc-template"
+  },
+  "main": "dist/main.js",
+  "contributors": [
+    {
+      "name": "First Name Last Name",
+      "email": "email@domain.com"
+    }
+  ],
+  "scripts": {
+    "test": "No tests"
+  },
+  "keywords": [
+    "keyword"
+  ]
+}
