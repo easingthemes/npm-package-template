@@ -1,3 +1,10 @@
+# [2.7.0](https://github.com/easingthemes/npm-nc-template/compare/v2.6.0...v2.7.0) (2021-05-11)
+
+
+### Features
+
+* **ci:** update git user ([913e50d](https://github.com/easingthemes/npm-nc-template/commit/913e50d8e24c581f1e4980291e0e6a3d1cd2677a))
+
 # [2.6.0](https://github.com/easingthemes/npm-nc-template/compare/v2.5.0...v2.6.0) (2021-05-11)
 
 
