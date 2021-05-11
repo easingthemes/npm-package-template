@@ -32,14 +32,13 @@ jobs:
         with:
           dry_run: ${{ github.event.inputs.dryrun == 'true' }}
           extra_plugins: |
-            @semantic-release/commit-analyzer
-            @semantic-release/release-notes-generator
             @semantic-release/changelog@3.0.0
-            @semantic-release/npm
             @semantic-release/git
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
           GIT_AUTHOR_EMAIL: github-actions@github.com
           GIT_AUTHOR_NAME: github-actions
+          GIT_COMMITTER_NAME: false
+          GIT_COMMITTER_EMAIL: false
           CI: true
