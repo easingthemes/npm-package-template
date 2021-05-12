@@ -1,3 +1,18 @@
+# [3.0.0](https://github.com/easingthemes/npm-package-template/compare/v2.7.3...v3.0.0) (2021-05-12)
+
+
+### Features
+
+* **action:** rename package ([f1b0042](https://github.com/easingthemes/npm-package-template/commit/f1b004231cd3a60e501586b4b4fbef1abc762843))
+* **action:** rename repo ([0f544ca](https://github.com/easingthemes/npm-package-template/commit/0f544ca12cfb354e9e46f34e110fd47d4b96140d))
+* **action:** rename repo ([6a32db3](https://github.com/easingthemes/npm-package-template/commit/6a32db393ec60a6c3bf741271b9987265336fe7d))
+
+
+### BREAKING CHANGES
+
+* **action:** message
+* **action:** message
+
 ## [2.7.3](https://github.com/easingthemes/npm-package-template/compare/v2.7.2...v2.7.3) (2021-05-11)
 
 
